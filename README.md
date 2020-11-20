@@ -6,3 +6,4 @@ This is an implementation of a DCGAN which trains on MNIST data in order to gene
 For more information check out https://www.tensorflow.org/install/gpu]
 
 Here is an example of some randomly chosen generated images at epoch 20 vs. epoch 200:
+![example](generated_images_epoch_20.png) ![example](generated_images_epoch_200.png)
